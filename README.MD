@@ -1,0 +1,1 @@
+Este repositório é destinado a compartilhar e documentar meus estudos com SQL, durante o curso de SQL Impressionador da Hashtag treinamentos.
